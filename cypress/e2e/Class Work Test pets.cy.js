@@ -1,7 +1,7 @@
 ///<reference types="cypress"/>
 import { faker } from '@faker-js/faker';
 import pet from '../fixtures/pet.json';
-import pet2 from '../fixtures/pet2.json'
+import pet2 from '../fixtures/pet2.json';
 
 //let petId;
 
